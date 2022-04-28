@@ -1,5 +1,6 @@
 # Loan-prediction
-# Loan Approval Prediction:  ### EDA + Decision Tree, Random Forest &amp; Logistic Regression Modeling  
+# Loan Approval Prediction: 
+EDA + Decision Tree, Random Forest &amp; Logistic Regression Modeling  
 ## Introduction 
   we are going to work on **binary classification problem**, where we got some information about sample of people , and we need to predict whether we should give some one a loan or not depending on his information . we actually have a few sample size (614 rows), so we will go with machine learning techniques to solve our problem .
 ### Problem Statement: 
