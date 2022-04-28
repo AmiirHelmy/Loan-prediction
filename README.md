@@ -1,4 +1,3 @@
-# Loan-prediction
 # Loan Approval Prediction: 
 EDA + Decision Tree, Random Forest &amp; Logistic Regression Modeling  
 ## Introduction 
